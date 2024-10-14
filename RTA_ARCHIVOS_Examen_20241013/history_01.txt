@@ -1,0 +1,392 @@
+ll
+tree
+ls
+ll
+cd repogit/
+ll
+cd ..
+ll
+ll .ssh/
+ssh
+ssh-keygen -t ed25519
+ll .ssh/
+cat .ssh/id_ed25519.pub 
+ll
+ll repogit/
+tar -cvzf ssh_backup.tgz .ssh
+ls -l
+ll
+ls
+ll -la
+mv ssh_backup.tgz repogit/
+ls
+ll
+cat .ssh/id_ed25519.pub 
+cd repogit/
+ls
+ll
+git clone git@github.com:cmndz/UTNFRA_SO_1P2C_2024_MENDEZ.git
+ll
+ls
+git clone https://github.com/upszot/UTN-FRA_SO_Examenes.git
+ll
+tree
+sudo apt-get install tree
+tree
+apt install tree
+sudo apt install tree
+sudo snap install tree
+tree
+tree .
+tree --h
+tree --hel`p
+tree --help
+tree repogit
+tree UTNFRA_SO_1P2C_2024_MENDEZ/
+tree .
+./UTN-FRA_SO_Examenes/202410/script_Precondicion.sh
+~/.bashrc && history -a
+tree UTNFRA_SO_1P2C_2024_MENDEZ/
+git status
+cd UTNFRA_SO_1P2C_2024_MENDEZ/
+git status
+git add .
+git status
+git commit -m "add: se agregaron las precondiciones"
+git config --global user.email "mendez.calfredo@gmail.com"
+git config --global user.name "cmndz"
+git commit -m "add: se agregaron las precondiciones"
+git status
+git push
+git status
+cd $HOME
+ll
+cd repogit/
+ll
+cd UTN-FRA_SO_Examenes/
+LL
+ll
+cd /
+cd $HOME
+cd /
+ll
+mkdir --help
+chmod --help
+ll
+cd home
+ll
+cd $HOME
+ll
+cd repogit/
+ll
+cd UTN-FRA_SO_Examenes/
+cd ..
+ll
+cd UTNFRA_SO_1P2C_2024_MENDEZ/
+LL
+ll
+cd RTA_ARCHIVOS_Examen_20241013/
+ll
+cd ..
+cd RTA_SCRIPT_Examen_20241013/
+LL
+ll
+sudo mkdir -p /Examenes-UTN/alumno_{1..3}/parcial_{1..3} /Examenes-UTN/profesores
+tree /
+tree /Examenes-UTN/
+cd /
+ll
+cd Examenes-UTN/
+ll
+tree /Examenes-UTN/
+tree 
+ll
+tree
+sudo tree 
+ll -l
+sudo snap remove tree
+tree
+sudo apt-get install tree
+sudo apt install tree -y
+cd $HOME
+cd  repogit/
+ll
+sudo apt install tree -y
+sudo apt-get install tree -y
+sudo apt-get update
+sudo apt-get install tree -y
+tree
+ll
+tree UTN-FRA_SO_Examenes/
+$HOME
+cd $HOME
+ll
+rm snap
+rm -rf $HOME/tree
+tree
+sudo apt-get install tree
+exec -l $SHELL  # <= restart shell
+tree
+tree /Examenes-UTN/
+cd /
+ll
+cd $HOME
+cd repogit/
+ll
+cd UTNFRA_SO_1P2C_2024_MENDEZ/
+LL
+ll
+cd RTA_SCRIPT_Examen_20241013/
+ll
+vim Punto_A.sh 
+cat Punto_A.sh 
+tree /Examenes-UTN/
+rm /Examenes-UTN/
+sudo rm /Examenes-UTN
+rm -r /Examenes-UTN
+rm -rf /Examenes-UTN
+sudo rm -rf /Examenes-UTN
+./Punto_A.sh 
+vim Punto_A.sh 
+./Punto_A.sh 
+tree /Examenes-UTN/
+sudo rm -rf /Examenes-UTN
+tree /Examenes-UTN/
+./Punto_A.sh 
+tree /Examenes-UTN/
+cd ../..
+git status
+cd UTNFRA_SO_1P2C_2024_MENDEZ/
+git status
+git add .
+git commit -m "feat: resolucion Punto A"
+git status
+git push
+vim /Punto_A.sh 
+cat Punto_A.sh
+ll
+vim RTA_SCRIPT_Examen_20241013/Punto_A.sh 
+tree /Examenes-UTN/
+rm -fr /Examenes-UTN/
+sudo rm -fr /Examenes-UTN/
+tree /Examenes-UTN/
+RTA_SCRIPT_Examen_20241013/Punto_A.sh 
+tree /Examenes-UTN/
+sudo rm -fr /Examenes-UTN/
+vim RTA_SCRIPT_Examen_20241013/Punto_A.sh 
+tree /Examenes-UTN/
+RTA_SCRIPT_Examen_20241013/Punto_A.sh 
+tree /Examenes-UTN/
+sudo rm -fr /Examenes-UTN/
+vim RTA_SCRIPT_Examen_20241013/Punto_A.sh 
+sudo rm -fr /Examenes-UTN/
+RTA_SCRIPT_Examen_20241013/Punto_A.sh 
+tree /Examenes-UTN/
+sudo rm -fr /Examenes-UTN/
+vim RTA_SCRIPT_Examen_20241013/Punto_A.sh 
+tree /Examenes-UTN/
+RTA_SCRIPT_Examen_20241013/Punto_A.sh 
+tree /Examenes-UTN/
+cat RTA_SCRIPT_Examen_20241013/Punto_A.sh 
+git add .
+git commit -m "fix: ajuste Punto A"
+git status
+git log
+git status
+git reset --soft
+git status
+git log
+git reset --soft HEAD~1
+git status
+cat RTA_SCRIPT_Examen_20241013/Punto_A.sh 
+tree /Examenes-UTN/
+sudo rm -fr /Examenes-UTN/
+tree /Examenes-UTN/
+RTA_SCRIPT_Examen_20241013/Punto_A.sh 
+tree /Examenes-UTN/
+git status
+git add .
+git log
+git commit -m "fix: ajuste Punto A"
+git push
+ll
+cd repogit/
+ll
+cd UTNFRA_SO_1P2C_2024_MENDEZ/
+LL
+ll
+cd RTA_SCRIPT_Examen_20241013/
+cat Punto_A.sh 
+fdisk
+fdisk --help
+fdisk -l
+sudo fdisk -l
+fdisk -l
+sudo fdisk -l
+sudo fdisk -l | grep "10GiB"
+sudo fdisk -l | grep "10 GiB"
+sudo fdisk -l | grep "10 GiB" | awk
+sudo fdisk -l | grep "10 GiB" | awk {1}
+sudo fdisk -l | grep "10 GiB" | awk {2}
+sudo fdisk -l | grep "10 GiB" | awk {$2}
+sudo fdisk -l | grep "10 GiB" | awk {print $2}
+sudo fdisk -l | grep "10 GiB" | awk '{print $2}'
+sudo fdisk -l | grep "10 GiB" | awk '{print $1}'
+sudo fdisk -l | grep "10 GiB" | awk '{print $2}'
+sudo fdisk -l | grep "10 GiB" | awk '{print $2}' | awk -F ':' '{print $1}'
+vim Punto_B.sh 
+Punto_B.sh 
+vim Punto_B.sh 
+Punto_B.sh 
+vim Punto_B.sh 
+Punto_B.sh 
+sudo fdisk -l | grep "10 GiB" | awk '{print $2}' | awk -F ':' '{print $1}'
+vim Punto_B.sh 
+Punto_B.sh 
+vim Punto_B.sh 
+Punto_B.sh 
+vim Punto_B.sh 
+Punto_B.sh 
+ll
+Punto_B.sh 
+vim Punto_B.sh 
+Punto_B.sh 
+sudo Punto_B.sh 
+vim Punto_A.sh 
+vim Punto_B.sh 
+Punto_B.sh 
+vim Punto_B.sh 
+Punto_B.sh 
+echo "test"
+ll
+whoami
+Punto_B.sh
+cat Punto_B.sh 
+cat Punto_A.sh 
+sudo rm -r /Examenes-UTN/
+Punto_A.sh
+RTA_SCRIPT_Examen_20241013/Punto_A.sh 
+cd ..
+RTA_SCRIPT_Examen_20241013/Punto_A.sh 
+tree /Examenes-UTN/
+RTA_SCRIPT_Examen_20241013/Punto_B.sh 
+vim RTA_SCRIPT_Examen_20241013/Punto_B.sh 
+RTA_SCRIPT_Examen_20241013/Punto_B.sh 
+vim RTA_SCRIPT_Examen_20241013/Punto_B.sh 
+RTA_SCRIPT_Examen_20241013/Punto_B.sh 
+sudo fdisk -l | grep "10 GiB" | awk '{print $2}' | awk -F ':' '{print $1}'
+RTA_SCRIPT_Examen_20241013/Punto_B.sh 
+vim RTA_SCRIPT_Examen_20241013/Punto_B.sh 
+RTA_SCRIPT_Examen_20241013/Punto_B.sh 
+sudo fdisk -l
+vim RTA_SCRIPT_Examen_20241013/Punto_B.sh 
+sudo fdisk /dev/sdd
+sudo fdisk -l | grep "10 GiB" | awk '{print $2}' | awk -F ':' '{print $1}'
+sudo fdisk /dev/sdc
+vim RTA_SCRIPT_Examen_20241013/Punto_B.sh 
+RTA_SCRIPT_Examen_20241013/Punto_B.sh 
+sudo fdisk /dev/sdc
+vim RTA_SCRIPT_Examen_20241013/Punto_B.sh 
+sudo fdisk /dev/sdc
+sudo fdisk -d /dev/sdc 
+sudo fdisk /dev/sdc 
+vim RTA_SCRIPT_Examen_20241013/Punto_B.sh 
+RTA_SCRIPT_Examen_20241013/Punto_B.sh 
+vim RTA_SCRIPT_Examen_20241013/Punto_B.sh 
+RTA_SCRIPT_Examen_20241013/Punto_B.sh 
+sudo fdisk /dev/sdc 
+vim RTA_SCRIPT_Examen_20241013/Punto_B.sh 
+sudo fdisk /dev/sdc 
+vim RTA_SCRIPT_Examen_20241013/Punto_B.sh 
+RTA_SCRIPT_Examen_20241013/Punto_B.sh 
+sudo fdisk /dev/sdc 
+vim RTA_SCRIPT_Examen_20241013/Punto_B.sh 
+sudo fdisk /dev/sdc 
+vim RTA_SCRIPT_Examen_20241013/Punto_B.sh 
+RTA_SCRIPT_Examen_20241013/Punto_B.sh 
+vim RTA_SCRIPT_Examen_20241013/Punto_B.sh 
+sudo fdisk /dev/sdc 
+vim RTA_SCRIPT_Examen_20241013/Punto_B.sh 
+RTA_SCRIPT_Examen_20241013/Punto_B.sh 
+vim RTA_SCRIPT_Examen_20241013/Punto_B.sh 
+sudo fdisk /dev/sdc 
+RTA_SCRIPT_Examen_20241013/Punto_B.sh 
+vim RTA_SCRIPT_Examen_20241013/Punto_B.sh 
+sudo fdisk /dev/sdc 
+RTA_SCRIPT_Examen_20241013/Punto_B.sh 
+cat etc/fstab
+cat /etc/fstab
+vim RTA_SCRIPT_Examen_20241013/Punto_B.sh 
+RTA_SCRIPT_Examen_20241013/Punto_B.sh 
+vim RTA_SCRIPT_Examen_20241013/Punto_B.sh 
+RTA_SCRIPT_Examen_20241013/Punto_B.sh 
+sudo mount -a
+vim /etc/fstab
+cat /etc/fstab
+sudo vim /etc/fstab
+cat /etc/fstab
+RTA_SCRIPT_Examen_20241013/Punto_B.sh 
+vim RTA_SCRIPT_Examen_20241013/Punto_B.sh 
+sudo mount -a
+sudo fdisk -l
+sudo fdisk 
+sudo fdisk -l
+sudo fdisk -l sdc
+sudo fdisk -l /dev/sdc
+sudo fdisk  /dev/sdc
+RTA_SCRIPT_Examen_20241013/Punto_B.sh 
+vim RTA_SCRIPT_Examen_20241013/Punto_B.sh 
+RTA_SCRIPT_Examen_20241013/Punto_B.sh 
+vim RTA_SCRIPT_Examen_20241013/Punto_B.sh 
+sudo fdisk  /dev/sdc
+sudo vim /etc/fstab
+RTA_SCRIPT_Examen_20241013/Punto_B.sh 
+sudo mount -a
+vim RTA_SCRIPT_Examen_20241013/Punto_B.sh 
+sudo fdisk  /dev/sdc
+sudo vim /etc/fstab
+cat /etc/fstab
+sudo unmount -a
+sudo unmount /Examenes-UTN/alumno_1/parcial_1
+sudo umount /Examenes-UTN/alumno_1/parcial_1
+sudo umount /Examenes-UTN/alumno_1/parcial_2
+sudo umount /Examenes-UTN/alumno_1/parcial_3
+sudo umount /Examenes-UTN/alumno_2/parcial_1
+sudo umount /Examenes-UTN/alumno_2/parcial_2
+sudo umount /Examenes-UTN/alumno_2/parcial_3
+sudo umount /Examenes-UTN/alumno_3/parcial_1
+sudo umount /Examenes-UTN/alumno_3/parcial_2
+sudo umount /Examenes-UTN/alumno_3/parcial_3
+sudo umount /Examenes-UTN/profesores 
+sudo fdisk /dev/sdd
+sudo fdisk /dev/sdc
+RTA_SCRIPT_Examen_20241013/Punto_B.sh 
+history -a
+cat $HOME/history
+cat $HOME/.bash_history
+cat $HOME/.bash_history >> /repogit/history_01
+cat $HOME/.bash_history > /repogit/history_01
+cat $HOME/.bash_history > \$HOME/repogit/history_01.txt
+cat $HOME/.bash_history >> \$HOME/repogit/history_01.txt
+echo $HOME/.bash_history
+cat $HOME/.bash_history
+cat $HOME/.bash_history >> test.txt
+cat test.txt
+cd $HOME
+LL
+ll
+cat .bash_history 
+cat .bash_history >> repogit/history_01
+cat .bash_history >> repogit/history_01.txt
+ll
+ll repogit/
+cd repogit/
+mv history_01.txt UTNFRA_SO_1P2C_2024_MENDEZ/RTA_ARCHIVOS_Examen_20241013/
+LL
+ll
+ll UTNFRA_SO_1P2C_2024_MENDEZ/RTA_ARCHIVOS_Examen_20241013/
+echo "test" > test.txt
+cat test.txt 
+echo "hola" > test.txt
+cat test.txt 
+cat .bash_history > UTNFRA_SO_1P2C_2024_MENDEZ/RTA_ARCHIVOS_Examen_20241013/history_01.txt 
